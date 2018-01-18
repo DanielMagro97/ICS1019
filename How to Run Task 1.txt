@@ -1,0 +1,7 @@
+1) Open the folder KRR1_jar
+2) Enter your Knowledge Base inside input.txt
+NOTE: Instead of the symbol ¬ for negation, please use -, Both in the Knowledge Base (input.txt) and the query inside the program.
+Clauses should be separated by new lines, and literals by commas, an example is already included in input.txt
+3) Launch the program by double-clicking on run.bat
+4) The knowledge base you inputted is displayed for verification. You can enter the query you wish to resolve and press enter to start resolution.
+eg: [-x, -y, z]

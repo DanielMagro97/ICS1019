@@ -1,0 +1,6 @@
+1) Open the folder KRR2_jar
+2) Enter your Inheritance Network inside input.txt
+Links should be separated by new lines, an example is already included in input.txt
+3) Launch the program by double-clicking on run.bat
+4) The Inheritance Network you inputted is displayed for verification. You can enter the query you wish to resolve and press enter to start resolution.
+eg: Clyde IS-A Gray

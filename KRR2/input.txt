@@ -1,0 +1,6 @@
+Clyde IS-A FatRoyalElephant
+FatRoyalElephant IS-A RoyalElephant
+Clyde IS-A Elephant
+RoyalElephant IS-A Elephant
+RoyalElephant IS-NOT-A Gray
+Elephant IS-A Gray
